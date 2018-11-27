@@ -6,8 +6,11 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I love books! Here are some I'm reading now
+# Books I read now
 
+
+# Books I read
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*
 3. Kazuo Ishiguro: *The Unconsoled*
@@ -19,4 +22,4 @@ I love books! Here are some I'm reading now:
 9. Karl Marx: *Capital*
 10. James Woodforde: *The Diary of A Country Parson*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+# Books I want to read
