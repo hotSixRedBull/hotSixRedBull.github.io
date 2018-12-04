@@ -1,6 +1,11 @@
 ---
 title: Welcome to Jekyll!
 icon: fa-check
+tags:
+- Jekyll
+- 블로그
+- Github
+- Tutorial
 order: 5
 ---
 

@@ -4,6 +4,11 @@ author: Chris
 layout: post
 icon: fa-lightbulb
 icon-style: regular
+tags:
+- Jekyll
+- 블로그
+- Github
+- Tutorial
 ---
 See the icon?
 
