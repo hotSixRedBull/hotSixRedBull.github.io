@@ -1,5 +1,5 @@
 ---
-title: When to London
+title: Went to London
 author: Alan
 layout: post
 tags:

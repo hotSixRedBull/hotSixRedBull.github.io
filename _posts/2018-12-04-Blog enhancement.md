@@ -1,5 +1,5 @@
 ---
-title: Blog inhancement
+title: Blog enhancement
 author: Alan
 layout: post
 tags:
