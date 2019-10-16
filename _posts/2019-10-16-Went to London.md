@@ -25,7 +25,6 @@ tags:
 요즘 일도 바빠서 틈이 거의없다. 집에도 11시 넘어 도착하고, 그래도 슬슬 다시 시동을 걸어보려고 한다.
 * 예전 글 제목도 틀려서 수정해야겠어ㅠㅠ inhancement가 뭐야
 
-
 It's been a long time to see this blog. I want to change the theme of this blog first. LOL
 I've been to London from 3rd to 13th October 2019. London was a city with various charisma that 10 days was not enough to feel the whole city.
 Because I felt so boredom of cannot play hearthstone by lack of network, I won't miss the times been to London within a short period.
@@ -38,4 +37,6 @@ To-Do list for my fun
 
 Although I have tons of funny things in my mind, Too many To-do lists will make me feel some pressure.
 These days are so busy that I arrived at home over 11 p.m. I'll start my funny things and improvements on the programming skill, though.
-* I just found that I misspelled the title of the last post. `imhancement`? really..?
+* I just found that I misspelled the title of the last post. `inhancement`? really..?
+
+![이건가봐](https://lh3.googleusercontent.com/rgA3QRPBV-5IOTY9EXUutYzys30Jd81_713qLhWH7LBHCtdcftHgCvNmP0PdbenvQMMeOc2RKrHJz6uZRRnfWIqBl4weXXIQKyugZSdVxpqkWoEHWzKHd6x2nnhBZjsUHwT7yOmGxaDC6A7EuCFdRXGftnGZdT5qczBpXhZKRbZ6j-lJU2TtikkUZnPbLbzLhMARCOij8xb3YNeclts4ImTVenWI9aDfdjZiBr0NyERtpFLdGzYgrP9awo_MA7o2QLFJtn6DVi3Q_v9zusXAqwcTp2QdjS6iFpl1KsuoahYZBs3pHsBjkLZnpjVxtI3J4mEgqbNQzs-NC4Zu1QVSW60-A4_mjaXdGe46eAwBmi_Hg14B9gQujclC4zKSB7nSfLP70pYuz7tWtHcCW7kAu--Myy9teXQBf5aV-KQL2GK32gQLHNWWYLNXm4TsPOkQ-Cy5keDN4inFwCp-U0Tx6CSqqEYf5WQ74zTcIDTsDITGFTiF7o-vB3l96dKmQ41BhCNKJBhil706x62qio4ELX3x5y56OSEIJ34OMQh0i4gt1_he_y6kl2KwhS-ItvVEHC5QKOi99houl272WoRU5jZMcY_1m9UZjg4AMGglhfR1HtbuB90Art7IGTVbvft_IiAg9kLsK6OSRbd20xV9yc0lyJz_lpfHDz0VUKHOdlyD-e-0YjAy0Mg=w1250-h937-no)
