@@ -27,5 +27,5 @@ However, How can i upload image on this post? LOL..
 
 
 *My watch list
-https://www.youtube.com/watch?v=JMLBBv05ORw&list=PLU9-uwewPMe0ynomccdrAX2CtVbahN4hD&index=4
-https://www.youtube.com/watch?v=LnGgndT308Q&list=PLU9-uwewPMe0ynomccdrAX2CtVbahN4hD&index=5
+[Video1](https://www.youtube.com/watch?v=JMLBBv05ORw&list=PLU9-uwewPMe0ynomccdrAX2CtVbahN4hD&index=4)
+[Video2](https://www.youtube.com/watch?v=LnGgndT308Q&list=PLU9-uwewPMe0ynomccdrAX2CtVbahN4hD&index=5)
