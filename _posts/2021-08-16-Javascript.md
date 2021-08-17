@@ -229,3 +229,7 @@ obj instanceof Class
 ```
 - obj가 Class에 속하거나 Class를 상속받는 클래스에 속하면 true가 반환됩니다.
 - 클래스에 정적 메서드 Symbol.hasInstance가 구현되어 있으면, obj instanceof Class문이 실행될 때, `Class[Symbol.hasInstance](obj)`가 호출됩니다. 호출 결과는 true나 false이어야 합니다. 이런 규칙을 기반으로 instanceof의 동작을 커스터마이징 할 수 있습니다.
+ㄱ
+## 9.10 믹스인
+- 여러 클래스를 상속받지 못하는 것을 우회하는 방법.
+- `Object.assign()`을 이용한다.
