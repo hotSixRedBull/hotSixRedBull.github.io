@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+### HI, I'm Alan.
+Welcome to my blog!
+My profile is on [linked in](https://www.linkedin.com/in/seunggi-lee-20a9a5135/).
