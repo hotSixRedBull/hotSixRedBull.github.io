@@ -1,7 +1,4 @@
-### About
-This is my blog on github.
-I updated theme on December 28, 2021.
-Theme is originated from [this repo](https://github.com/cotes2020/jekyll-theme-chirpy)
+# AGENTS.md
 
 ## 공식 공개 URL 게시 위치
 
@@ -23,4 +20,7 @@ Alan Works 앱에서 외부로 노출될 수 있는 공식 URL은 `alanworks-con
 
 다른 게시 위치는 사용자가 명시적으로 지정한 경우에만 사용합니다. 기존 개인 계정의 Pages·Gist에 앱 공식 페이지를 새로 만들거나 다시 게시하지 않습니다. 옛 URL 삭제·재게시와 기존 앱 ID 변경은 사용자 명시 요청이 있을 때만 수행합니다.
 
-블로그의 일반 글은 앱 공식 URL 게시 대상과 구분합니다. 이 저장소의 앱용 app-ads.txt는 공식 사이트 루트로 이전했습니다.
+## 블로그 보존
+
+- 이 저장소는 개인 블로그다. 앱 공식 페이지와 app-ads.txt를 여기에 새로 게시하지 않는다.
+- 일반 블로그 글·테마·기존 Git 기록은 사용자의 별도 요청 없이 삭제하거나 수정하지 않는다.
